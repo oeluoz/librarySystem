@@ -1,11 +1,4 @@
 # 图书管理系统
-```css
-.blob-code-inner{
-font-family-:Monaco;
-font-size:15px;
-line-height:24px;
-}
-```
 ## 1.管理员功能：
   ### 1.1图书信息管理：书籍的添加，删除，查找，修改
   ### 1.2读者信息管理：读者信息添加，删除，查找，修改
